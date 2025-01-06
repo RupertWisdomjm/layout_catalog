@@ -8,7 +8,7 @@
   border: $based-border-width solid $border-color;
   font-size: $base-font-size-sm;
   color: $font-color-light;
-  transition: all 0.3s;
+  transition: transform 0.3s;
 
   .card__image {
     width: 160px;
